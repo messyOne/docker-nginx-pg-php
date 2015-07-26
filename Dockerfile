@@ -1,5 +1,5 @@
 FROM        ubuntu:14.04
-MAINTAINER  Ross Riley "mail@weiss-daniel.de"
+MAINTAINER  Daniel Weiss "mail@weiss-daniel.de"
 
 # Install nginx
 ENV HOME /root
